@@ -1,5 +1,10 @@
 # UASWebpro2
-Aplikasi ini mengunakan bahasa pemrograman PHP, Msql, Javascript, Google Chrome, Sublime text 
+Aplikasi ini mengunakan bahasa
+- pemrograman PHP
+- Msql
+- Javascript
+- Google Chrome
+- Sublime text 
 
 Nama Anggota: 
 1. Laili Masikhoh ( 2020012 )
